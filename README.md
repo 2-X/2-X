@@ -9,8 +9,10 @@ My professional specialty is web automation, anti-detection, and data scraping a
 ### If you're gonna check out anything, check out...
 [pyre.tv](https://pyre.tv), a website+chrome extension double-whammy that records your watch history for you across all sites, unifies the user experience of any video on the web, and most importantly adds social features to the TV experience like watch parties. Code is private but DM me if you're interested.
 
+### AI
 I am completely up to date on AI toolkits for work purposes (Cursor + Claude Desktop), and use a personal Claude subscription to assist on side projects. Models like Opus 4.5-5 and open-weight models like GLM 5.2 are faster than us at being smart for most tasks. They accelerate output many times over for prototyping and batch fixes, and are becoming reliable for complex debugging with proper MCP setup and a VIGILANT co-pilot 😂
 
+### Coding background
 I originally learned to code in Game Maker Studio to make a geometric platforming game, and attempt to create a Rouge-like version of Hyper Light Drifter. My greatest work in Game Maker is [iGraph, a DFA Designer turned free-form diagraming tool](https://kris.city/igraph)
 
 I studied Computer Science and Linguistics at Northeastern University's Khoury College of Computer Science. I was a TA for Theory of Computation because I love state theory. My first CO-OP and later job was a product called [Tamr](https://www.tamr.com/) focused on massive dataset mastering using AI+human-in-the-loop. My second CO-OP was ingesting medical sanctions data and house+car ownership data into a risk assessment pipeline for companies to monitor employees 😬. At the time, I was also working on personal projects like automation surrounding an anonymous crush-posting Facebook page called NU Crushes with 10K+ users. I created an extension called [Autolingo](https://chromewebstore.google.com/detail/autolingo/jppnahnlneednhaefhbfgpamgbecpfdd?authuser=0&hl=en) that completes Duolingo challenges and entire skills. 
