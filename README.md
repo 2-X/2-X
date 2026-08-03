@@ -4,7 +4,7 @@
 If you are interested in reaching out about a project, submitting a PR or issue, or simply chatting, please don't hesitate! I am very curious about all kinds of technological solutions to all kinds of problems.
 
 ### Work
-My professional specialty is web automation, anti-detection, and data scraping at scale. We are doing things that I would not have believed was possible 6 years ago.
+My professional specialty is web automation, anti-detection, and data scraping at scale for [Navi](https://www.yournavi.com/). We are doing things that I would not have believed was possible 6 years ago.
 
 ### If you're gonna check out anything, check out...
 [pyre.tv](https://pyre.tv), a website+chrome extension double-whammy that records your watch history for you across all sites, unifies the user experience of any video on the web, and most importantly adds social features to the TV experience like watch parties. Code is private but DM me if you're interested.
