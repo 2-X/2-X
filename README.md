@@ -10,7 +10,7 @@ My professional specialty is web automation, anti-detection, and data scraping a
 My biggest personal project is definitely [pyre.tv](https://pyre.tv), a website+chrome extension double-whammy that records your watch history for you across all sites, unifies the user experience of any video on the web, and most importantly adds social features to the TV experience like watch parties. Code is private but DM me if you're interested.
 
 ## AI Usage
-I am completely up to date on AI toolkits for work purposes (Cursor + Claude Desktop), and use a personal Claude subscription to assist on side projects. I have found great success in using models like Opus 4.5-5 and open-weight models like GLM 5.2. They are definitely capable of accelerating output many times over for prototyping and batch fixes, and are becoming reliable for complex debugging with proper MCP setup and a VIGILANT co-pilot 😂
+I am completely up to date on AI toolkits for work purposes (Cursor + Claude Desktop), and use a personal Claude subscription to assist on side projects. Models like Opus 4.5-5 and open-weight models like GLM 5.2 are faster than us at being smart for most tasks. They accelerate output many times over for prototyping and batch fixes, and are becoming reliable for complex debugging with proper MCP setup and a VIGILANT co-pilot 😂
 
 ## My background in coding
 I originally learned to code in Game Maker Studio to make a geometric platforming game, and attempt to create a Rouge-like version of Hyper Light Drifter.
